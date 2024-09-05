@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+}
+
+.left{}
+
+
+.mittle{}
+
+
+.right{}
+
